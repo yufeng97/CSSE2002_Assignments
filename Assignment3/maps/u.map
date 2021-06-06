@@ -1,0 +1,43 @@
+8
+place
+an empty room
+an empty room
+lowpoint
+appendix
+an empty room
+an empty room
+a non-empty room
+1
+1 South
+2
+0 North
+2 South
+3
+3 East
+1 North
+4 West
+2
+5 East
+2 West
+1
+2 East
+2
+6 North
+3 West
+2
+7 North
+5 South
+1
+6 South
+0
+0
+1
+C;-4.0;10;s2;l2
+1
+C;-8.0;0;s;l
+1
+E;17;Expy;Worn out prospector type
+0
+1
+$;10.0;small
+0

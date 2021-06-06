@@ -1,0 +1,112 @@
+21
+the start
+an empty room
+a room
+an empty room
+an empty room
+an empty room
+a room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+an empty room
+1
+1 South
+2
+0 North
+2 West
+2
+1 East
+3 West
+2
+2 East
+4 North
+2
+5 North
+3 South
+2
+6 North
+4 South
+2
+7 East
+5 South
+2
+8 East
+6 West
+2
+9 East
+7 West
+2
+10 East
+8 West
+2
+11 South
+9 West
+2
+10 North
+12 South
+2
+11 North
+13 South
+2
+12 North
+14 South
+2
+13 North
+15 South
+2
+14 North
+16 West
+2
+15 East
+17 West
+2
+16 East
+18 West
+2
+17 East
+19 West
+2
+18 East
+20 West
+1
+19 East
+0
+0
+0
+0
+0
+0
+0
+0
+2
+E;200;fred;Alfred
+C;1.0;1;X;XX
+2
+$;0.0;5
+$;0.0;5
+0
+1
+$;0.0;4
+0
+0
+1
+$;0.0;3
+0
+0
+1
+$;0.0;2
+0
+1
+$;0.0;1
+0
