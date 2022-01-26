@@ -1,0 +1,37 @@
+6
+r1
+r3
+r2
+r4
+r5
+r6
+3
+1 East
+2 North
+3 South
+1
+0 West
+2
+0 South
+4 West
+1
+5 South
+1
+2 East
+0
+2
+C;1.00000;5;frog;a frog
+E;10;doris;a doris
+2
+$;30.00000;iron
+C;80.00000;30;witcher;a witcher
+2
+C;50.00000;10;critter1;a critter1*
+$;50.00000;gold*
+1
+$;50.00000;gold*
+1
+C;50.00000;10;critter1;a critter1*
+2
+$;20.00000;herb
+C;150.00000;50;boss;final boss
